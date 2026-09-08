@@ -1,6 +1,7 @@
 '''
 Logan Eyrich
 Chapter 2
+Name Cases
 '''
 
 logan = 'logan'

@@ -1,6 +1,7 @@
 '''
 Logan Eyrich
 Chapter 2
+Famous Quote
 '''
 
 person = "Kamina"

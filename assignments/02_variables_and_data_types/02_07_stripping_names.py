@@ -1,6 +1,7 @@
 '''
 Logan Eyrich
 Chapter 2
+Stripping Names
 '''
 
 name = "     Logan     "

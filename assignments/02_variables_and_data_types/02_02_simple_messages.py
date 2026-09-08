@@ -1,6 +1,7 @@
 '''
 Logan Eyrich
 Chapter 2
+Simple Messages
 '''
 
 msg = "I feel extreme Python Power"
